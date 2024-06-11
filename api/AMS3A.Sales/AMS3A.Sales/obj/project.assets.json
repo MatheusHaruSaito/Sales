@@ -2991,19 +2991,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fatec Taqua. 02\\.nuget\\packages\\": {}
+    "C:\\Users\\Fatec Taqua. 15\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
+      "projectUniqueName": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
       "projectName": "AMS3A.Sales",
-      "projectPath": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
-      "packagesPath": "C:\\Users\\Fatec Taqua. 02\\.nuget\\packages\\",
-      "outputPath": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\obj\\",
+      "projectPath": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
+      "packagesPath": "C:\\Users\\Fatec Taqua. 15\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fatec Taqua. 02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fatec Taqua. 15\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

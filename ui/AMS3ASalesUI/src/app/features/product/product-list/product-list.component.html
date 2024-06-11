@@ -1,0 +1,21 @@
+<div class="container">
+  <ng-container *ngIf="products">
+    <table class="table table-bordered mt-3">
+      <thead>
+        <tr>
+          <th>Description</th>
+          <th>Stock</th>
+          <th>Price</th>
+          <th>ImageURL</th>
+          <th>CategoryId</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let product of products">
+          <th>{{product.id}}</th>
+          <th>{{product.description}}</th>
+        </tr>
+      </tbody>
+    </table>
+</ng-container>
+</div>

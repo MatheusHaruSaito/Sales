@@ -1,52 +1,56 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3A\\_sales\\api\\AMS3A.Sales\\",
+  "WorkspaceRootPath": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\domain\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\domain\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\domain\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\domain\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\domain\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\domain\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\migrations\\20240409174450_entitiesrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\domain\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\domain\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\migrations\\20240409174450_entitiesrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\migrations\\20240409174450_entitiesrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\ams3a.sales.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\ams3a.sales.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\ams3a.sales.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\src\\AMS3A.Sales.API\\AMS3A.Sales.API\\Context\\ApplicationDataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|d:\\3a\\_sales\\api\\ams3a.sales\\ams3a.sales\\context\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|c:\\users\\fatec taqua. 15\\desktop\\nova pasta\\sales\\api\\ams3a.sales\\ams3a.sales\\context\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B3AC49-0EDA-4702-A52B-46946F8F2327}|AMS3A.Sales\\AMS3A.Sales.csproj|solutionrelative:ams3a.sales\\context\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -57,15 +61,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "AMS3A.Sales\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Controllers\\ProductController.cs",
               "RelativeToolTip": "AMS3A.Sales\\Controllers\\ProductController.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAWwCcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,17 +78,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "AMS3A.Sales\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "AMS3A.Sales\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAQwCwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T16:46:04.156Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -96,36 +99,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryRequest.cs",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Request\\CategoryRequest.cs",
-              "RelativeDocumentMoniker": "AMS3A.Sales\\Domain\\Request\\CategoryRequest.cs",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Request\\CategoryRequest.cs",
-              "RelativeToolTip": "AMS3A.Sales\\Domain\\Request\\CategoryRequest.cs",
+              "DocumentIndex": 3,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "AMS3A.Sales\\Domain\\DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "AMS3A.Sales\\Domain\\DTO\\CategoryDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T17:23:20.516Z"
+              "WhenOpened": "2024-06-11T17:31:16.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Request\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "AMS3A.Sales\\Domain\\Request\\CategoryRequest.cs",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Request\\CategoryRequest.cs",
+              "RelativeToolTip": "AMS3A.Sales\\Domain\\Request\\CategoryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:23:20.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductRequest.cs",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Request\\ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Request\\ProductRequest.cs",
               "RelativeDocumentMoniker": "AMS3A.Sales\\Domain\\Request\\ProductRequest.cs",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Request\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Request\\ProductRequest.cs",
               "RelativeToolTip": "AMS3A.Sales\\Domain\\Request\\ProductRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T17:23:18.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "20240409174450_EntitiesRelation.cs",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Migrations\\20240409174450_EntitiesRelation.cs",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Migrations\\20240409174450_EntitiesRelation.cs",
               "RelativeDocumentMoniker": "AMS3A.Sales\\Migrations\\20240409174450_EntitiesRelation.cs",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Migrations\\20240409174450_EntitiesRelation.cs",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Migrations\\20240409174450_EntitiesRelation.cs",
               "RelativeToolTip": "AMS3A.Sales\\Migrations\\20240409174450_EntitiesRelation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,37 +150,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Category.cs",
               "RelativeDocumentMoniker": "AMS3A.Sales\\Domain\\Category.cs",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Category.cs",
               "RelativeToolTip": "AMS3A.Sales\\Domain\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T20:41:49.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T20:41:49.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\appsettings.json",
               "RelativeDocumentMoniker": "AMS3A.Sales\\appsettings.json",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\appsettings.json",
               "RelativeToolTip": "AMS3A.Sales\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-26T17:32:07.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T17:32:07.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ApplicationDataContext.cs",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Context\\ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Context\\ApplicationDataContext.cs",
               "RelativeDocumentMoniker": "AMS3A.Sales\\Context\\ApplicationDataContext.cs",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Context\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Context\\ApplicationDataContext.cs",
               "RelativeToolTip": "AMS3A.Sales\\Context\\ApplicationDataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -171,33 +186,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "AMS3A.Sales\\Domain\\Product.cs",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Domain\\Product.cs",
               "RelativeToolTip": "AMS3A.Sales\\Domain\\Product.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T17:36:21.163Z"
+              "WhenOpened": "2024-03-26T17:36:21.163Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ApplicationDataContext.cs",
               "DocumentMoniker": "C:\\src\\AMS3A.Sales.API\\AMS3A.Sales.API\\Context\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\src\\AMS3A.Sales.API\\AMS3A.Sales.API\\Context\\ApplicationDataContext.cs",
               "ToolTip": "C:\\src\\AMS3A.Sales.API\\AMS3A.Sales.API\\Context\\ApplicationDataContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\src\\AMS3A.Sales.API\\AMS3A.Sales.API\\Context\\ApplicationDataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T17:25:30.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Program.cs",
               "RelativeDocumentMoniker": "AMS3A.Sales\\Program.cs",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Program.cs",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\Program.cs",
               "RelativeToolTip": "AMS3A.Sales\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AMS3A.Sales.csproj",
-              "DocumentMoniker": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
+              "DocumentMoniker": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
               "RelativeDocumentMoniker": "AMS3A.Sales\\AMS3A.Sales.csproj",
-              "ToolTip": "D:\\3A\\_sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
+              "ToolTip": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
               "RelativeToolTip": "AMS3A.Sales\\AMS3A.Sales.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
