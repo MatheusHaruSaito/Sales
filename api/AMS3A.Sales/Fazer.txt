@@ -1,0 +1,113 @@
+//npm install -g @angular/cli
+
+//angular não aceita maiusculo
+//ng s "Salva"
+//ng g c "nome" Cria Compnente
+//ng : comando angular
+//g : generate
+//c : component
+//s : server
+
+//pasta .spec serve para tete de script angular
+
+Criar Pasta "core"
+>Componente 	
+>navbar
+>>Componente navBar
+Mover Pasta "core" Para "app"
+
+criar Pasta "features" no "app"
+
+feature
+>category
+criar componente: category-list
+
+app\features\category
+ng g c add-category
+
+
+category-list.compnent.html
+	<div class="container">
+		<h1 class="mt-3">Categorias</h1>
+		<div> class="d-flex justify-content-end mt-3"</div>
+		<a [routerLink]="['/admin/categories/add']" class="btn btn-primary">Nova Categoria</a>
+	</div>
+
+app-routing.ts
+//JA EXISTE
+const route: Routes = [
+//Adicionar	
+	{
+		path:'admin/categorias',
+			component: CategoryListComponent
+	},
+	{
+		path:'admin/categories/add',
+			component: AddCategoryComponent
+	}
+]
+
+
+feature\category\addcategory
+
+<div class="container">
+	<h1 class="mt-3">Cadastar Categoria</h1>
+	<form (ngSubmit)="onFormSubmit()">
+		<div class="mt-2">
+			<div class="mt-3">
+				<label class="form-label"> Descrição<label>
+				<input type="text" id="description class="form-control" name="descruiption" ngModel="model.description">
+			</div>
+		</div>
+		<div class="mt-3">
+			<button type="submit" class="btn btn-primary">Salvar</button>
+		</div>
+	</form>	
+</div>
+
+criar pasta "model" em "feature\category"
+criar arquivo "add-category-request.models.ts" em "model"
+em "add-category-request.models.ts"
+export interface AddCategoryRequest
+{
+description: string;
+}
+
+//deveria existir em add-category.component.ts
+model: AddCategoryRequest
+onFormSubmit()
+{
+	console.log(this.model)
+}
+
+
+constructor()
+{
+	this.model = {
+		description:''
+	};
+}
+
+
+///////////////////////////////////
+//PREPARANDO SERVICES
+///////////////////////////////////
+criar Pasta "services" em "features/category"
+entrar na pasta "services"
+executar o comando ng g s category-service
+
+em category-service.ts
+
+constructor(private http : HttpClient){}
+
+getCategory(){
+	this.http.get("https://localhost:7014/api/v1/Category")
+}
+
+
+//CORRIGIR PROBLEMA DE CORS É NA API
+//Program.cs
+
+em baixo de app.UseAuthorization
+app.UsingCors();
+

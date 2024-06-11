@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AMS3A.Sales",
+    "\\AMS3A.Sales\\Controllers",
+    "\\AMS3A.Sales\\Domain",
+    "\\AMS3A.Sales\\Domain\\Request"
+  ],
+  "SelectedNode": "\\AMS3A.Sales\\Controllers\\ProductController.cs",
+  "PreviewInSolutionExplorer": false
+}
