@@ -1,5 +1,5 @@
 import { CommonModule, NgFor } from '@angular/common';
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { Product } from '../model/product.model';
 import { ProductService } from '../services/product.service';
@@ -12,13 +12,13 @@ import { ProductService } from '../services/product.service';
   styleUrl: './product-list.component.css'
 })
 export class ProductListComponent implements OnInit  {
-  categories?: Product[]
+  products?: Product[]
   constructor(private productService: ProductService){}
   ngOnInit():void{
     this.productService.getAllProduct()
     .subscribe({
       next : (response) => {
-        this.categories = response;
+        this.products = response;
       }
     });
 }

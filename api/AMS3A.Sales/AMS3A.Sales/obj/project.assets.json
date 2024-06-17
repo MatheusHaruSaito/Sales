@@ -2991,19 +2991,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fatec Taqua. 15\\.nuget\\packages\\": {}
+    "C:\\Users\\Gener\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
+      "projectUniqueName": "C:\\Users\\Gener\\Desktop\\naossei\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
       "projectName": "AMS3A.Sales",
-      "projectPath": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
-      "packagesPath": "C:\\Users\\Fatec Taqua. 15\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fatec Taqua. 15\\Desktop\\Nova pasta\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\obj\\",
+      "projectPath": "C:\\Users\\Gener\\Desktop\\naossei\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\AMS3A.Sales.csproj",
+      "packagesPath": "C:\\Users\\Gener\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gener\\Desktop\\naossei\\Sales\\api\\AMS3A.Sales\\AMS3A.Sales\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fatec Taqua. 15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gener\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3078,7 +3078,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,8 +12,11 @@
       </thead>
       <tbody>
         <tr *ngFor="let product of products">
-          <th>{{product.id}}</th>
           <th>{{product.description}}</th>
+          <th>{{product.stock}}</th>
+          <th>{{product.price}}</th>
+          <th>{{product.imageURL}}</th>
+          <th>{{product.categoryId}}</th>
         </tr>
       </tbody>
     </table>
