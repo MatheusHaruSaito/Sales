@@ -7,8 +7,9 @@
     <div> class="d-flex justify-content-end mt-3"</div>
     <a routerLink="['/admin/categories/add']" class="btn btn-primary">Nova Categoria</a>
 </div> -->
-
+<br>
 <div class="container">
+  <a [routerLink]="['admin/categories/add']" class="btn btn-primary">Add Category</a>
   <ng-container *ngIf="categories">
     <table class="table table-bordered mt-3">
       <thead>

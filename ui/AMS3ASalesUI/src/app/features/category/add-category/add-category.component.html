@@ -1,10 +1,13 @@
 <div class="container">
 	<h1 class="mt-3">Cadastar Categoria</h1>
-	<form (ngSubmit)="onFormSubmit()">
+	<form #form="ngForm" (ngSubmit)="onFormSubmit()">
 		<div class="mt-2">
 			<div class="mt-3">
 				<label class="form-label"> Descrição</label>
-				<input type="text" id="description" class="form-control" name="descruiption" ngModel="model.description">
+				<input type="text" id="description" class="form-control" name="description" [(ngModel)]="model.description">
+				<label class="form-label"> Imagem</label>
+				<input type="text" id="imageURL" class="form-control" name="description" [(ngModel)]="model.imageURL">
+
 			</div>
 		</div>
 		<div class="mt-3">

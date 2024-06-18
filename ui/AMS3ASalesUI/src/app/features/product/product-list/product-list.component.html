@@ -5,7 +5,7 @@
         <tr>
           <th>Description</th>
           <th>Stock</th>
-          <th>Price</th>
+          <th>Price R$</th>
           <th>ImageURL</th>
           <th>CategoryId</th>
         </tr>
@@ -14,7 +14,7 @@
         <tr *ngFor="let product of products">
           <th>{{product.description}}</th>
           <th>{{product.stock}}</th>
-          <th>{{product.price}}</th>
+          <th>R$ {{product.price}}</th>
           <th>{{product.imageURL}}</th>
           <th>{{product.categoryId}}</th>
         </tr>

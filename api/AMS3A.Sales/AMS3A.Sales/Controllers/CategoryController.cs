@@ -16,7 +16,7 @@ namespace AMS3A.Sales.Controllers
         private readonly ApplicationDataContext _context;
         public CategoryController(ApplicationDataContext applicationDataContext)
         {
-            _context = applicationDataContext;
+            _context = applicationDataContext;  
         }
         [HttpPost]
         public ActionResult Post(CategoryRequest categoryRequest)

@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { Category } from '../model/Category.model';
+import { AddCategoryRequest } from '../model/add-category-request.models';
 
 
 @Injectable({
@@ -13,5 +14,10 @@ export class CategoryService {
     return this.http.get<Category[]>(
       "https://localhost:7014/api/v1/Category"
     );
+  }
+  AddCategory(categoryRequest : AddCategoryRequest) : Observable<AddCategoryRequest>{
+    console.log("YAY SERVICE :D");
+    console.log(categoryRequest);
+    return this.http.post<AddCategoryRequest>("https://localhost:7014/api/v1/Category",categoryRequest)
   }
 }
