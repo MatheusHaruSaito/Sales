@@ -16,8 +16,6 @@ export class CategoryService {
     );
   }
   AddCategory(categoryRequest : AddCategoryRequest) : Observable<AddCategoryRequest>{
-    console.log("YAY SERVICE :D");
-    console.log(categoryRequest);
-    return this.http.post<AddCategoryRequest>("https://localhost:7014/api/v1/Category",categoryRequest)
+    return this.http.post<AddCategoryRequest>("https://localhost:7014/api/v1/Category",categoryRequest);
   }
 }
