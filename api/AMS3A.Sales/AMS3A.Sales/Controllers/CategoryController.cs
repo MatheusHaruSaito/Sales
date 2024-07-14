@@ -61,9 +61,10 @@ namespace AMS3A.Sales.Controllers
             return Ok(cat);
         }
         [HttpDelete]
-        [Route("{Id:Guid}")]
-        public IActionResult Delete(Guid Id)
+        [Route("{id}")]
+        public IActionResult Delete(string id)
         {
+            Guid Id = Guid.Parse(id);
             var Cat = _context.Category.FirstOrDefault(x => x.Id == Id);
             if (Cat == null) return NotFound();
 

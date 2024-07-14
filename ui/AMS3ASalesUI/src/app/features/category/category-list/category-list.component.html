@@ -16,12 +16,19 @@
         <tr>
           <th>Id</th>
           <th>Description</th>
+          <th>Action</th>
         </tr>
       </thead>
       <tbody>
         <tr *ngFor="let category of categories">
           <th>{{category.id}}</th>
           <th>{{category.description}}</th>
+          <th>
+            <button (click)="deleteCategory(category.id)">Delete</button>
+            <!-- <form #form ="ngForm" (ngSubmit)="deleteCategory()">
+              <input type="text" name="{{category.id}}" value="{{category.id}}" [(ngModel)]="DeleteModel.id" >
+              <input type="submit" value="Delete" class="btn btn-danger">
+            </form> -->
         </tr>
       </tbody>
     </table>
