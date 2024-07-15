@@ -8,6 +8,7 @@
           <th>Price R$</th>
           <th>ImageURL</th>
           <th>CategoryId</th>
+          <th>Action</th>
         </tr>
       </thead>
       <tbody>
@@ -17,6 +18,9 @@
           <th>R$ {{product.price}}</th>
           <th>{{product.imageURL}}</th>
           <th>{{product.categoryId}}</th>
+          <th>
+            <Button class="btn btn-danger" (click)="deleteProduct(product.id)">Delete</Button>
+          </th>
         </tr>
       </tbody>
     </table>

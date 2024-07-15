@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { Product } from '../model/product.model';
 import { ProductService } from '../services/product.service';
+import { response } from 'express';
 
 @Component({
   selector: 'app-product-list',
@@ -22,4 +23,13 @@ export class ProductListComponent implements OnInit  {
       }
     });
 }
+  deleteProduct(Id:string):void{
+      this.productService.deleteProduct(Id)
+      .subscribe({
+        next : (response) => {
+          console.log(response)
+          this.ngOnInit();
+        }
+      });
+  }
 }

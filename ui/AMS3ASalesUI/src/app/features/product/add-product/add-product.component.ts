@@ -28,6 +28,7 @@ export class AddProductComponent {
     this.productService.addProduct(this.model)
     .subscribe({
       next:(response) =>{
+        
         console.log(response);
       }
     });

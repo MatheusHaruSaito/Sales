@@ -8,16 +8,21 @@ import { AddProductRequest } from '../model/add-product-request.model';
   providedIn: 'root'
 })
 export class ProductService {
+  httplink: string = "https://localhost:7014/api/Product";
 
   constructor(private http: HttpClient) { }
   getAllProduct(): Observable<Product[]>{
     return this.http.get<Product[]>(
-          "https://localhost:7014/api/Product"
+          `${this.httplink}`
     );
   }
-  addProduct(addCategoryRequest: AddProductRequest): Observable<AddProductRequest>{
+  addProduct(AddProductRequest: AddProductRequest): Observable<AddProductRequest>{
+    console.log(AddProductRequest)
     return this.http.post<AddProductRequest>(
-      "https://localhost:7014/api/Product",addCategoryRequest
+      this.httplink, AddProductRequest
     );
+  }
+  deleteProduct(Id:string) : Observable<string>{
+    return this.http.delete<string>(`${this.httplink}/${Id}`)
   }
 }
